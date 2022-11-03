@@ -33,7 +33,7 @@ Python script that scans a Japanese text and gives statistics about the kanji :
 - 人名用漢字: kanji used in names (651 kanji)
 - 表外字: other kanji
 - 新字体: proportion of shinjitai kanji
-- 旧字体: proportion of kyuujitai kanji
+- 旧字体: proportion of kyūjitai kanji
 
 ### JLPT Levels
 
