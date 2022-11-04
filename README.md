@@ -4,7 +4,9 @@
 
 Python script that scans a Japanese text and gives statistics about the kanji :
 
-<img src="https://user-images.githubusercontent.com/99618877/199845437-51479d45-61da-46b5-8802-f9dbb2bfbc2b.png" width="600"/>
+<img src="https://user-images.githubusercontent.com/99618877/199957961-6f287f7f-a8b6-4672-ac20-a7d1a6b1eb71.png" width="600"/>
+
+(Example: 『源氏物語』 Genji Monogatari)
 
 ## Fields
 
